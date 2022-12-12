@@ -4,4 +4,4 @@
 **git add nombre_archivo** agrega el archivo especificado al area de stagging    
 **git commit** envía los cambios realizados que estaban en stagging a la rama master.  
 ***git log nombre_archivo*** muestra todos los commits realizados en el archivo
-***git show nombre_archivo*** muestra los cambios hechos en el ultimo commit  
+***git show nombre_archivo*** muestra los cambios hechos en cada commit  
